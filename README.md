@@ -8,3 +8,8 @@
 
 * MagicalRecord
 * NSFetchedResultController
+
+### 关于运行
+
+因为该项目使用了cocoapods来进行包管理，所以如果希望下载运行的话，需要实现安装[cocoapods](http://cocoapods.org)，
+然后在项目根目录下运行`pod install`，执行成功后打开`MagicalRecordExample.xcworkspace`文件编译运行即可。
