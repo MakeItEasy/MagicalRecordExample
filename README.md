@@ -4,6 +4,8 @@
 
 具体的介绍可以参考我的博客文章：[在iOS项目中使用MagicalRecord](http://makeiteasy.github.io/2015/02/04/use-magicalrecord-with-coredata.html)
 
+![Demo运行截图](screenshot.gif "Demo运行截图")
+
 ### 使用到的知识点
 
 * MagicalRecord
